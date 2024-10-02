@@ -63,7 +63,7 @@ javac JogoDaVelha.java
 java JogoDaVelha
 ```
 5. O programa começará a executar e exibirá o tabuleiro inicial. Você deve inserir o número da posição desejada para jogar.
-6. 
+
 6. O jogo continuará até que haja um vencedor ou um empate (situação de "velha").
 
 ## Exemplo de Execução
