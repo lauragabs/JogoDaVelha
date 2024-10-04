@@ -37,6 +37,8 @@ public  class JogoDaVelha {
             } else {
                 restricao();
             }
+
+            scanner.close();
         }
     }
 
